@@ -1,0 +1,11 @@
+{
+  "name": "femora-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Femora AI Women's Health Platform",
+  "scripts": {
+    "start": "cd FEMORA-main && npm start",
+    "dev": "cd FEMORA-main && npm run dev",
+    "build": "cd FEMORA-main && npm run build"
+  }
+}
